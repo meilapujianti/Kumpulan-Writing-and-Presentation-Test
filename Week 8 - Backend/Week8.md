@@ -40,9 +40,11 @@ Sequelize adalah ORM Node JS yang berbasis promise. Sequelize bisa digunakan den
 [Sequelize](https://sequelize.org/)
 
 **Install Sequelize**
+
 ![Install Sequelize](./i-sequelize.png)
 
 **Setting Up Connection**
+
 ![Setting Up Connection](./set-seq.png)
 
 ### Express with Sequelize
@@ -214,6 +216,7 @@ NoSQL adalah Not Only SQL. Artinya kita bisa mengolah database dengan fleksibel 
 - Hanya bisa menampung maksimal 16MB disetiap document.
 
 **Anatomi Komponen dari Database MongoDB**
+
 ![Anatomi](https://niagaspace.sgp1.digitaloceanspaces.com/blog/wp-content/uploads/2021/03/22083125/database-MongoDB.png)
 
 Database adalah wadah untuk menyimpan berbagai macam Collection.
@@ -323,6 +326,7 @@ Kekurangan:
 Dengan Referencing kita hanya memasukan data sebagian saja tidak keseluruhan.
 
 Misalnya, asumsikan kita mendapatkan riwayat_lagu kita hanya memberikan ObjectID nya saja
+
 ![referencing](./referencing.png)
 
 ### Relasi dalam MongoDB
