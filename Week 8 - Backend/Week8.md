@@ -382,10 +382,15 @@ npm install mongodb --save
 ```
 
 2. Buat satu file .env untuk menyimpan variabel database
+    
    ![File .env](./env.png)
+    
 3. Membuat file untuk membuat koneksi, dan interaksi dengan database langsung.
+    
    ![file koneksi](./koneksi.png)
+    
 4. Kita menyisipkan potongan kode untuk menginsert data, untuk melihat perubahan di MongoDB Compass, dan itu berhasil.
+    
    ![hasil](./compass.png)
 
 ### Mongoose
